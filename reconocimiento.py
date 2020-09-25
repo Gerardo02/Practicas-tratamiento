@@ -21,9 +21,6 @@ for i in range(6):
 #hs:amplitud espectral
 #fs:frecuencias
 
-#espectro = segmentosNumeros[0].make_spectrum()
-#espectro.plot()
-#thinkplot.show()
 
 frecuenciasBajasDTMF = [697, 770, 852, 941]
 frecuenciasAltasDTMF = [1209, 1336, 1477]
